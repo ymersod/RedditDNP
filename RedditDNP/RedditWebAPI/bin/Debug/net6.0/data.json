@@ -1,0 +1,94 @@
+{
+  "Users": [
+    {
+      "Username": "string",
+      "Password": "string",
+      "Email": "string",
+      "domain": "reddit",
+      "Nickname": "string",
+      "Role": "commoner",
+      "Age": 0,
+      "SecurityLevel": 0
+    },
+    {
+      "Username": "ymer",
+      "Password": "cum",
+      "Email": "10",
+      "domain": "reddit",
+      "Nickname": "stormand",
+      "Role": "commoner",
+      "Age": 10,
+      "SecurityLevel": 0
+    },
+    {
+      "Username": "ymersod",
+      "Password": "peepee",
+      "Email": "string",
+      "domain": "reddit",
+      "Nickname": "string",
+      "Role": "commoner",
+      "Age": 10,
+      "SecurityLevel": 4
+    },
+    {
+      "Username": "tis",
+      "Password": "lort",
+      "Email": "simon.99@live.dk",
+      "domain": "reddit",
+      "Nickname": "LMAON\u00D8B",
+      "Role": "commoner",
+      "Age": 10,
+      "SecurityLevel": 0
+    },
+    {
+      "Username": "seje1000",
+      "Password": "poopoo",
+      "Email": "simon.99@live.dk",
+      "domain": "reddit",
+      "Nickname": "ymer",
+      "Role": "commoner",
+      "Age": 20,
+      "SecurityLevel": 0
+    },
+    {
+      "Username": "sdf",
+      "Password": "sdsdf",
+      "Email": "simon.99@live.dk",
+      "domain": "reddit",
+      "Nickname": "sdf",
+      "Role": "commoner",
+      "Age": 4,
+      "SecurityLevel": 0
+    }
+  ],
+  "Posts": [
+    {
+      "index": 1,
+      "Date": "2022-10-26T14:30:02.1935525+02:00",
+      "PostTitle": "poopoo",
+      "PostContext": "peepee",
+      "PostCreator": "stormand"
+    },
+    {
+      "index": 2,
+      "Date": "2022-10-26T14:30:22.9906311+02:00",
+      "PostTitle": "peepee",
+      "PostContext": "peepoo",
+      "PostCreator": "stormand"
+    },
+    {
+      "index": 3,
+      "Date": "2022-10-26T14:31:54.5358068+02:00",
+      "PostTitle": "giga poop frfr",
+      "PostContext": "yikers",
+      "PostCreator": "stormand"
+    },
+    {
+      "index": 4,
+      "Date": "2022-11-02T14:04:53.2661944+01:00",
+      "PostTitle": "sdf",
+      "PostContext": "sdf",
+      "PostCreator": "stormand"
+    }
+  ]
+}

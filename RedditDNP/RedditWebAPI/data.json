@@ -1,0 +1,33 @@
+{
+  "Users": [
+    {
+      "Username": "seje1000",
+      "Password": "poopoo",
+      "Email": "simon.99@live.dk",
+      "domain": "reddit",
+      "Nickname": "ymer",
+      "Role": "commoner",
+      "Age": 20,
+      "SecurityLevel": 4
+    },
+    {
+      "Username": "sdf",
+      "Password": "sdsdf",
+      "Email": "simon.99@live.dk",
+      "domain": "reddit",
+      "Nickname": "sdf",
+      "Role": "commoner",
+      "Age": 4,
+      "SecurityLevel": 0
+    }
+  ],
+  "Posts": [
+    {
+      "index": 1,
+      "Date": "2022-11-02T14:04:53.2661944+01:00",
+      "PostTitle": "sdf",
+      "PostContext": "sdf",
+      "PostCreator": "stormand"
+    }
+  ]
+}
